@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lellimecnar/gulp-stylus-lint#readme",
   "dependencies": {
     "gulp-util": "^3.0.6",
+    "stylus-lint": "0.0.0",
     "through2": "^2.0.0"
   }
 }
